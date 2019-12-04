@@ -4,9 +4,9 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 
 @Entity
-public class account {
+public class Account {
 
-    public account() {
+    public Account() {
     }
 
     @Id
